@@ -1,0 +1,46 @@
+Write a program to:
+
+23 / 12 / 20
+1. Display name on screen
+2. Find area of circle
+3. Find simple interest (si = p*r*t / 100)
+
+30 / 12 / 20 - if/else
+4. Check whether a person is male or female
+5. Find salary of a person whose basic is greater than 20,000 and hra: 2%. In other case, hra: 1.2%.
+
+6 / 1 / 21
+6. Find root of a quadratic equation. (if/else)
+7. Find whether the character entered is a vowel or a consonant. (switch case)
+8. Find sequence of a protein as given below:  
+            C = ccttaattaattccat
+            A = attcttcttc
+            T = ttatccta
+       by entering a character. (switch case)
+
+7 / 1 / 21 - loops
+9. Generate number from 1 - 100. (while)
+10. Display even number from 1 - 50 & find its sum. (while)
+11. Display odd number from 1 - 50 & find its sum. (for)
+
+8 / 1 / 21 - do/while loop & goto
+12. Generate number from 1 - 100.
+13. Generate number from 1 - 100 w/o using loop.
+
+13 / 1 / 21 - functions
+14. Find square of a number
+15. Find sum of two numbers using function.
+16. Product of three numbers using function.
+
+14 / 1 / 21 - call by value (function)
+18. Swap values of two variables using function.
+19. Swap values w/o using a temporary variable.
+
+15 / 1 / 21 - call by reference (function)
+20. Swap values of two variables.
+21. Area of a rectangle.
+
+20 / 1 / 21 - class
+22. Find area of circle using object-oriented programming
+23. Swap values of two variables
+24. Rewrite all the previous programs using object-oriented programming (class

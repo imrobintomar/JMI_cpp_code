@@ -1,0 +1,4 @@
+wap in c++ to calculate the expendizer of 
+if basic is grater than 20000 exp is 10 % for  contigency 
+and 20% for office equipment and  if basic is less than  and equal to 
+20000 the exp is 5% is contigency and  10% for office eqipement 
